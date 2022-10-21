@@ -1,0 +1,42 @@
+[
+  {
+    "name":"Vụ án 1",
+    "prosecutionDate": "15/06/2022", 
+    "prosecutionNumber": 12345,
+    "handler": "Nguyễn Văn A, Nguyễn Văn B",
+    "profileNumber": 123,
+    "isSubmitProfile": "Đã nộp",
+    "result": "Đã xong",
+    "evidences": "Vật chứng"
+  },
+  {
+    "name":"Vụ án 2",
+    "prosecutionDate": "15/06/2022", 
+    "prosecutionNumber": 12345,
+    "handler": "Nguyễn Văn A, Nguyễn Văn B",
+    "profileNumber": 123,
+    "isSubmitProfile": "Đã nộp",
+    "result": "Đã xong",
+    "evidences": "Vật chứng"
+  },
+  {
+    "name":"Tin báo 1",
+    "prosecutionDate": "15/06/2022", 
+    "prosecutionNumber": 12345,
+    "handler": "Nguyễn Văn A, Nguyễn Văn B",
+    "profileNumber": 123,
+    "isSubmitProfile": "Đã nộp",
+    "result": "Đã xong",
+    "evidences": "Vật chứng"
+  },
+  {
+    "name":"Tin báo 2",
+    "prosecutionDate": "15/06/2022", 
+    "prosecutionNumber": 12345,
+    "handler": "Nguyễn Văn A, Nguyễn Văn B",
+    "profileNumber": 123,
+    "isSubmitProfile": "Đã nộp",
+    "result": "Đã xong",
+    "evidences": "Vật chứng"
+  }
+]
